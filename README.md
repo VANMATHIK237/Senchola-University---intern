@@ -12,3 +12,4 @@
 8. Indian Economy (1960-2020) Dashboard with Power BI
 9. Zomato Data Analysis with SQL 
 10. IMDb Web Scraping with Python web scrapping
+11. Stolen Vehilce Analysis

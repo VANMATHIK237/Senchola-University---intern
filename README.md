@@ -8,7 +8,7 @@
 4. Churn Data Analysis using Power BI
 5. Adventure Work Dashboard with Power BI
 6. IPL Data Analysis (2008-2023) using Power BI
-7. Global YouTube Statistics using Power BI
+7. Global YouTube Statistics using SQL
 8. Indian Economy (1960-2020) Dashboard with Power BI
 9. Zomato Data Analysis with SQL 
 10. IMDb Web Scraping with Python web scrapping
